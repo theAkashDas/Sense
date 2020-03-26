@@ -1,6 +1,5 @@
 # Sense
 
 ### new
--see1
--see2
--see345674
+
+I am learning git...this is the place where i fork
